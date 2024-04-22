@@ -17,4 +17,5 @@ A Minecraft server with magic
   - Fang Ring : Summons a ring of fangs around the player.
   - Siphon : Siphons health from an enemy and gives it to the player.
   - Repel : Repels all entities in a 5 block radius away from the player.
+
 Total: **10**
