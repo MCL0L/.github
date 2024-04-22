@@ -1,1 +1,6 @@
-<h1>MCLOL</h1>
+# MCLOL
+A Minecraft server with magic
+
+## Spells:
+- **Fire:**
+  - Fireball : Shoots a fireball 
