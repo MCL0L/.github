@@ -1,6 +1,6 @@
 # MCLOL
 A Minecraft server with magic
-<br>
+
 [Website](https://mclol.pro)
 
 ## Spells:
